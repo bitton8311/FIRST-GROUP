@@ -29,7 +29,6 @@ muna.elkurd15  munakurd15 muna.kurd
 ruba.ali2
 Anwar AL-Hanafi 
 paulapascalau
-amaandagirotto
 dr.najat_alzbeidi
 nnour_cl
 minahamideh
@@ -57,3 +56,4 @@ alaa.massri
 amal_missor01
 mery_tp6
 Feroza Imran
+
